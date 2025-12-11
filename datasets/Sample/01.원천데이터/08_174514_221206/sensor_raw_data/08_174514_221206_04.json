@@ -1,0 +1,130 @@
+{
+    "in_vehicle": {
+        "wheel_speed_mps": 3.4544236111,
+        "yaw_rate_dps": -2.4100000000,
+        "acceleration_x_mps2": -0.7500000000,
+        "acceleration_y_mps2": -0.1000000000,
+        "turn_signal": 1,
+        "steering_angle_deg": -27.0000000000,
+        "gear": 3
+    },
+    "scc_radar": {
+        "object_count": 6,
+        "objects_info": [
+            {
+                "id": 10,
+                "status": 2,
+                "lateral_rate_mps": 0.7500000000,
+                "angle_deg": 6.4000000000,
+                "range_m": 52.3000000000,
+                "acceleration_mps2": 0.0000000000,
+                "speed_mps": 1.7300000000,
+                "width_m": 0.0000000000,
+                "pos_x_m": 51.9740621721,
+                "pos_y_m": -5.8298251544,
+                "relative_speed_x_mps": 1.9671633233,
+                "relative_speed_y_mps": 0.7500000000,
+                "absolute_speed_x_mps": 1.7219466818,
+                "absolute_speed_y_mps": -1.5184297332,
+                "on_coming": false
+            },
+            {
+                "id": 20,
+                "status": 3,
+                "lateral_rate_mps": 2.0000000000,
+                "angle_deg": 8.8000000000,
+                "range_m": 36.9000000000,
+                "acceleration_mps2": 1.5000000000,
+                "speed_mps": 3.1100000000,
+                "width_m": 0.0000000000,
+                "pos_x_m": 36.4656272754,
+                "pos_y_m": -5.6451773589,
+                "relative_speed_x_mps": 4.0063706728,
+                "relative_speed_y_mps": 2.0000000000,
+                "absolute_speed_x_mps": 3.7689207672,
+                "absolute_speed_y_mps": 0.3838928012,
+                "on_coming": false
+            },
+            {
+                "id": 25,
+                "status": 3,
+                "lateral_rate_mps": 0.5000000000,
+                "angle_deg": -19.4000000000,
+                "range_m": 31.4000000000,
+                "acceleration_mps2": 0.6500000000,
+                "speed_mps": -3.2700000000,
+                "width_m": 0.0000000000,
+                "pos_x_m": 29.6171914596,
+                "pos_y_m": 10.4298595411,
+                "relative_speed_x_mps": -3.3658730900,
+                "relative_speed_y_mps": 0.5000000000,
+                "absolute_speed_x_mps": -2.9271678013,
+                "absolute_speed_y_mps": -0.8280453127,
+                "on_coming": false
+            },
+            {
+                "id": 28,
+                "status": 3,
+                "lateral_rate_mps": 0.5000000000,
+                "angle_deg": -8.1000000000,
+                "range_m": 4.3000000000,
+                "acceleration_mps2": 0.1500000000,
+                "speed_mps": -0.2900000000,
+                "width_m": 2.0000000000,
+                "pos_x_m": 4.2571017282,
+                "pos_y_m": 0.6058752973,
+                "relative_speed_x_mps": -0.7410656355,
+                "relative_speed_y_mps": 0.5000000000,
+                "absolute_speed_x_mps": -0.7155810452,
+                "absolute_speed_y_mps": 0.2386618126,
+                "on_coming": false
+            },
+            {
+                "id": 45,
+                "status": 4,
+                "lateral_rate_mps": 1.0000000000,
+                "angle_deg": 20.3000000000,
+                "range_m": 47.8000000000,
+                "acceleration_mps2": 0.4000000000,
+                "speed_mps": -3.4600000000,
+                "width_m": 0.0000000000,
+                "pos_x_m": 44.8310910744,
+                "pos_y_m": -16.5835241452,
+                "relative_speed_x_mps": -4.2983561838,
+                "relative_speed_y_mps": 1.0000000000,
+                "absolute_speed_x_mps": -4.9958995897,
+                "absolute_speed_y_mps": -0.9679789759,
+                "on_coming": false
+            },
+            {
+                "id": 61,
+                "status": 4,
+                "lateral_rate_mps": 4.7500000000,
+                "angle_deg": 11.4000000000,
+                "range_m": 66.0000000000,
+                "acceleration_mps2": 0.0500000000,
+                "speed_mps": 9.7300000000,
+                "width_m": 0.0000000000,
+                "pos_x_m": 64.6978975250,
+                "pos_y_m": -13.0453844650,
+                "relative_speed_x_mps": 11.2049562187,
+                "relative_speed_y_mps": 4.7500000000,
+                "absolute_speed_x_mps": 10.6562355829,
+                "absolute_speed_y_mps": 1.9463747697,
+                "on_coming": false
+            }
+        ]
+    },
+    "backlight": {
+        "max_intensity": 136
+    },
+    "sync": {
+        "tick_frame": 37
+    },
+    "gps": {
+        "latitude_deg": 37.5273342944,
+        "longitude_deg": 126.9531231249,
+        "heading_deg": 172.3200000000,
+        "height_m": 43.0350000000
+    }
+}

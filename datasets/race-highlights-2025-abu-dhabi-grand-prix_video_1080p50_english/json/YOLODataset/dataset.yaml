@@ -1,0 +1,9 @@
+path: /home/roni/dev_ws/yolo_tut/datasets/race-highlights-2025-abu-dhabi-grand-prix_video_1080p50_english/json/YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: human
+    1: f1_machine
+    2: car

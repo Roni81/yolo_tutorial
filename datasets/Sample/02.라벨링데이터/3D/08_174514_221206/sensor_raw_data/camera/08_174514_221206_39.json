@@ -1,0 +1,369 @@
+{
+    "information": {
+        "filename": "08_174514_221206_39.jpg",
+        "resolution": [
+            1920,
+            1080
+        ]
+    },
+    "Scene_meta": {
+        "zone": "Anyang, Smart square",
+        "edge_case": [
+            "곡선 구간 차선 유지"
+        ],
+        "scene_number": "08_174514_221206"
+    },
+    "Environment_meta": {
+        "weather": "맑음",
+        "date": "2022-12-06",
+        "time": "17:45:14",
+        "car_type": "G80",
+        "traffic_Type": 2,
+        "speed_type": 0,
+        "road_type": "자동차전용도로"
+    },
+    "annotations": [
+        {
+            "bbox": [
+                265,
+                683,
+                406,
+                854
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 20,
+                "group": 0,
+                "type": "schoollBus"
+            },
+            "class": "vehicle",
+            "dimension": [
+                2.7998,
+                3.5499,
+                10.9996
+            ],
+            "location": [
+                40.1492,
+                12.968,
+                -5.0463
+            ],
+            "distance": 40.43,
+            "yaw": -0.21
+        },
+        {
+            "bbox": [
+                560,
+                773,
+                619,
+                822
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 22,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": null,
+            "location": null,
+            "distance": null,
+            "yaw": null
+        },
+        {
+            "bbox": [
+                137,
+                773,
+                299,
+                877
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 30,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": [
+                1.9994,
+                1.5498,
+                4.4992
+            ],
+            "location": [
+                27.8389,
+                11.4153,
+                -4.316
+            ],
+            "distance": 28.36,
+            "yaw": -0.12
+        },
+        {
+            "bbox": [
+                578,
+                728,
+                883,
+                994
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 0,
+                "track_id": 31,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": [
+                1.9983,
+                1.6496,
+                4.2986
+            ],
+            "location": [
+                13.3033,
+                1.7057,
+                -2.1305
+            ],
+            "distance": 11.51,
+            "yaw": -0.12
+        },
+        {
+            "bbox": [
+                500,
+                776,
+                548,
+                812
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 23,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": null,
+            "location": null,
+            "distance": null,
+            "yaw": null
+        },
+        {
+            "bbox": [
+                0,
+                766,
+                174,
+                912
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 1,
+                "track_id": 26,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": [
+                1.9993,
+                1.5498,
+                4.5994
+            ],
+            "location": [
+                18.9973,
+                9.9357,
+                -3.1909
+            ],
+            "distance": 19.68,
+            "yaw": -0.07
+        },
+        {
+            "bbox": [
+                440,
+                780,
+                463,
+                801
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 0,
+                "track_id": 15,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": null,
+            "location": null,
+            "distance": null,
+            "yaw": null
+        },
+        {
+            "bbox": [
+                226,
+                642,
+                274,
+                686
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 0,
+                "track_id": 38,
+                "tracfficSignValue": 0
+            },
+            "class": "trafficSign",
+            "dimension": [
+                1.2998,
+                1.1499,
+                0.1997
+            ],
+            "location": [
+                47.2348,
+                18.0285,
+                -3.5518
+            ],
+            "distance": 48.54,
+            "yaw": -0.75
+        },
+        {
+            "bbox": [
+                843,
+                761,
+                954,
+                853
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 0,
+                "track_id": 39,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": [
+                1.8993,
+                1.65,
+                4.1996
+            ],
+            "location": [
+                37.0349,
+                1.3771,
+                -5.1746
+            ],
+            "distance": 35.38,
+            "yaw": -0.17
+        },
+        {
+            "bbox": [
+                456,
+                777,
+                497,
+                803
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 40,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": null,
+            "location": null,
+            "distance": null,
+            "yaw": null
+        },
+        {
+            "bbox": [
+                429,
+                779,
+                455,
+                799
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 41,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": null,
+            "location": null,
+            "distance": null,
+            "yaw": null
+        },
+        {
+            "bbox": [
+                694,
+                663,
+                718,
+                687
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 0,
+                "track_id": 42,
+                "tracfficSignValue": 0
+            },
+            "class": "trafficSign",
+            "dimension": null,
+            "location": null,
+            "distance": null,
+            "yaw": null
+        },
+        {
+            "bbox": [
+                1416,
+                717,
+                1708,
+                905
+            ],
+            "attribute": {
+                "occluded": 0,
+                "truncated": 0,
+                "track_id": 43,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": [
+                1.6995,
+                1.5499,
+                3.6997
+            ],
+            "location": [
+                16.6119,
+                -5.1576,
+                -2.4542
+            ],
+            "distance": 15.79,
+            "yaw": -0.12
+        },
+        {
+            "bbox": [
+                343,
+                769,
+                410,
+                823
+            ],
+            "attribute": {
+                "occluded": 1,
+                "truncated": 0,
+                "track_id": 43,
+                "group": 0,
+                "type": "vehicle"
+            },
+            "class": "vehicle",
+            "dimension": [
+                1.6995,
+                1.5499,
+                3.6997
+            ],
+            "location": [
+                16.6119,
+                -5.1576,
+                -2.4542
+            ],
+            "distance": 15.79,
+            "yaw": -0.12
+        }
+    ]
+}

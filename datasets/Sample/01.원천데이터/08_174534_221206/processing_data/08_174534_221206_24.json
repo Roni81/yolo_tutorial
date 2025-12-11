@@ -1,0 +1,61 @@
+{
+    "perception": {
+        "positioning": {
+            "latitude_deg": 37.5255300989,
+            "longitude_deg": 126.9535150321,
+            "heading_deg": 66.6182350327,
+            "speed_mps": 10.6015069444
+        },
+        "lane_number": 0,
+        "lane_data": {
+            "left": {
+                "position_param": 1.6835937500,
+                "heading_param": 0.0087890625,
+                "curvature_param": 0.0015361328,
+                "curvature_derivative_param": 0.0000041239,
+                "range_m": 33.9140625000,
+                "range_available": true,
+                "lane_type": 0
+            },
+            "right": {
+                "position_param": -1.5390625000,
+                "heading_param": 0.0185546875,
+                "curvature_param": 0.0014648438,
+                "curvature_derivative_param": -0.0000034831,
+                "range_m": 23.9375000000,
+                "range_available": true,
+                "lane_type": 0
+            }
+        }
+    },
+    "planing": {
+        "motion_plan": {
+            "right_turn": false,
+            "left_turn": false,
+            "u_turn": false
+        },
+        "change_lane": false,
+        "front_vehicle_info": {
+            "is_exist": false,
+            "distance_m": 0.0000000000,
+            "speed_mps": 0.0000000000,
+            "cutin_prediction": false
+        },
+        "point_level_driving_route": {
+            "is_available": false,
+            "coefficient_3rd": 0.0000000000,
+            "coefficient_2nd": 0.0000000000,
+            "coefficient_1st": 0.0000000000,
+            "constant": 0.0000000000
+        },
+        "traffic_signal_type": 0
+    },
+    "control": {
+        "control_mode": {
+            "autonomous_drive_mode": false,
+            "autonomous_drive_cancel_reason": 0
+        },
+        "angle_deg": 0.0000000000,
+        "acceleration_mps2": -1.0000000000
+    }
+}

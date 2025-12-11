@@ -1,0 +1,9 @@
+path: /home/roni/dev_ws/yolo_tut/datasets/le-sserafim-reuserapim-crazy-official-mv_video_720p_original/YOLODataset
+train: images/train
+val: images/val
+test:
+
+names:
+    0: woman
+    1: eye
+    2: man
